@@ -1,8 +1,0 @@
-How to use google fonts
-css margin
-how to put element at bottom of div
-how to make text capital in css
-center position absolute
-how to raise part of text css
-shadow css
-css clickable
